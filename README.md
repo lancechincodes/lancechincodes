@@ -1,6 +1,6 @@
 # Nice to meet you, I'm Lance! 💡
 
-I am a software engineer who loves learning and applying the latest full-stack technologies. With a background in mechanical engineering, I thrive in problem-solving situations and enjoy the challenge of breaking down problems into digestible tasks.
+Hey there! I am a software engineer who loves learning and applying the latest full-stack technologies. With a background in mechanical engineering and as the 2021-2022 president of the Society of Asian Scientists and Engineers, I thrive in problem-solving situations and enjoy the challenge of breaking down problems into digestible tasks.
 
 With experience in instructing programming workshops and engineering courses in my free time, I've developed an aptitude for leading team environments. I've found teaching not only to be a fulfilling hobby but an excellent contributor to my growth as a compassionate and perceptive leader.
 
