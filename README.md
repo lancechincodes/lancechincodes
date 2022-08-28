@@ -2,7 +2,7 @@
 
 I am a full-stack software engineer on a mission to fuel my curiousity to learn and apply the latest technologies. With a background in mechanical engineering, I thrive in problem-solving situations and enjoy the challenge of breaking down problems into digestible tasks.
 
-With experience in instructing both programming workshops and engineering courses in my free time, I've developed an aptitude for leading team environments. I've found that teaching has not only been a fulfilling hobby, but an excellent contributor to my growth as a compassionate and perceptive leader.
+With experience in instructing both programming workshops and engineering courses in my free time, I've developed an aptitude for leading team environments. I've found teaching to not only be a fulfilling hobby, but an excellent contributor to my growth as a compassionate and perceptive leader.
 
 Finally, as a dedicated programming student, my goal will always be to continue to refine my craft. Currently, I am exploring React Native to build mobile apps, and actively seeking full-stack software engineering positions!
 
