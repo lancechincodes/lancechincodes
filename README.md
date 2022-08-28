@@ -6,7 +6,7 @@ With experience in instructing both programming workshops and engineering course
 
 Finally, as a dedicated programming student, my goal will always be to continue to refine my craft. Currently, I am exploring React Native to build mobile apps, refactoring my current projects, and actively seeking full-stack software engineering positions!
 
-## Contact me 👋
+## Contact me 👥
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lance-chin/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lanceechin@gmail.com)
@@ -46,5 +46,5 @@ Finally, as a dedicated programming student, my goal will always be to continue 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## Github stats 🟩
+## Github stats 📊
 ![Lance's GitHub stats](https://github-readme-stats.vercel.app/api?username=lancechincodes&show_icons=true&theme=tokyonight)
