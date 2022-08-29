@@ -46,6 +46,7 @@ Currently, I am learning React Native to build mobile apps, refactoring my curre
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Matlab](https://img.shields.io/badge/-MATLAB-%23B653CF?style=for-the-badge)
 
 ## Github stats 🟩
 ![Lance's GitHub stats](https://github-readme-stats.vercel.app/api?username=lancechincodes&show_icons=true&theme=tokyonight)
