@@ -48,5 +48,5 @@ Currently, I am solving algorithms, learning React Native to build mobile apps, 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Matlab](https://img.shields.io/badge/-MATLAB-%23B653CF?style=for-the-badge)
 
-## Github stats 🟩
+## GitHub stats 🟩
 ![Lance's GitHub stats](https://github-readme-stats.vercel.app/api?username=lancechincodes&show_icons=true&theme=tokyonight)
