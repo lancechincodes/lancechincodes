@@ -10,9 +10,6 @@ Currently, I am solving algorithms, learning React Native to build mobile apps, 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lance-chin/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lanceechin@gmail.com)
 
-## Words to live by 📖
-The reward of discipline is discipline itself
-
 ## Skills 🛠
 #### Front-End
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
