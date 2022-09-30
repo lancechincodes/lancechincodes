@@ -1,12 +1,13 @@
 ![Lance's Banner](https://user-images.githubusercontent.com/97629162/193198401-ce0132e4-63d4-493a-b8da-f71c274a7c84.png)
 
+## About me 👋
 ### I am a software engineer who loves learning and applying the latest full-stack technologies. With a background in mechanical engineering and as the 2021-2022 former president of the Society of Asian Scientists and Engineers, I thrive in problem-solving situations and enjoy the challenge of breaking down problems into smaller tasks to achieve larger goals.
 
 ### With experience in instructing programming workshops and engineering courses in my free time, I've also developed an aptitude for leading team environments. I've found teaching not only to be a fulfilling hobby but an excellent contributor to my growth as a compassionate and perceptive leader.
 
 ### Currently, I am solving algorithms, learning React Native to build mobile apps, building an exciting educational social media platform, and actively seeking full-stack software engineering positions!
 
-## Contact me 👋
+## Contact me 📫
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lance-chin/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lanceechin@gmail.com)
 
