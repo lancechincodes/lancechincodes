@@ -1,4 +1,4 @@
-# Nice to meet you, I'm Lance! 💡
+![Lance's Banner](https://user-images.githubusercontent.com/97629162/193197909-97619b55-70dc-432d-87a7-da3609ac8ee7.png)
 
 I am a software engineer who loves learning and applying the latest full-stack technologies. With a background in mechanical engineering and as the 2021-2022 former president of the Society of Asian Scientists and Engineers, I thrive in problem-solving situations and enjoy the challenge of breaking down problems into smaller tasks to achieve larger goals.
 
