@@ -56,5 +56,3 @@ Currently, I am solving algorithms, learning React Native to build mobile apps, 
 ![Lance's streak stats](https://streak-stats.demolab.com/?user=lancechincodes&theme=tokyonight)
 <br/>
 ![Lance's overall stats](https://github-readme-stats.vercel.app/api?username=lancechincodes&show_icons=true&theme=tokyonight)
-<br/>
-![Lance's profile views](https://komarev.com/ghpvc/?username=lancechincodes&style=for-the-badge)
