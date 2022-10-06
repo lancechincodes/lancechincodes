@@ -7,6 +7,8 @@ With experience in instructing programming workshops and engineering courses in 
 
 Currently, I am solving algorithms, learning React Native to build mobile apps, building an exciting educational social media platform, and actively seeking full-stack software engineering positions!
 
+[![Personal Website](https://img.shields.io/badge/-personal%20website-white?style=for-the-badge)](https://lancechincodes.github.io/portfolio/)
+
 ## Contact me 📫
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lance-chin/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lanceechin@gmail.com)
