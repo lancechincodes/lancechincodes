@@ -5,7 +5,7 @@ I am a software engineer who loves learning and applying the latest full-stack t
 
 With experience in instructing programming workshops and engineering courses in my free time, I've also developed an aptitude for leading team environments. I've found teaching not only to be a fulfilling hobby but an excellent contributor to my growth as a compassionate and perceptive leader.
 
-Currently, I am solving coding challenges, learning React Native to build mobile apps, building an exciting educational social media platform, and actively seeking full-stack software engineering positions!
+Currently, I am solving coding challenges, learning Angular, building an exciting educational social media platform, and actively seeking full-stack software engineering positions!
 
 [![Personal Website](https://img.shields.io/badge/-personal%20website-white?style=for-the-badge)](https://lancechincodes.github.io/portfolio/)
 
