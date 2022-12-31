@@ -1,4 +1,4 @@
-![Lance's Banner](https://user-images.githubusercontent.com/97629162/206109887-548e68ef-0ceb-4fdf-924f-1a27fa90c12c.png)
+![Lance's Banner](https://user-images.githubusercontent.com/97629162/210151308-a9c7dfa2-45a5-4f0e-b6ef-6e38b9065bfd.png)
 
 ## About me 👋
 Happy holidays! I am a software engineer who loves learning and applying the latest full-stack technologies. With a background in mechanical engineering and as the former president of the Society of Asian Scientists and Engineers, I thrive in problem-solving situations and enjoy the challenge of breaking down problems into smaller tasks to achieve larger goals.
