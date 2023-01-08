@@ -58,6 +58,6 @@ Currently, I am solving coding challenges, learning Angular, building an excitin
 ![Matlab](https://img.shields.io/badge/-MATLAB-%23B653CF?style=for-the-badge)
 
 ## GitHub stats 🟩
-![Lance's streak stats](https://streak-stats.demolab.com/?user=lancechincodes&theme=radical)
+![Lance's streak stats](https://streak-stats.demolab.com/?user=lancechincodes&theme=tokyonight)
 <br/>
-![Lance's overall stats](https://github-readme-stats.vercel.app/api?username=lancechincodes&show_icons=true&theme=radical)
+![Lance's overall stats](https://github-readme-stats.vercel.app/api?username=lancechincodes&show_icons=true&theme=tokyonight)
