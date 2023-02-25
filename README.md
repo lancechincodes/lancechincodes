@@ -1,4 +1,4 @@
-![Lance's Banner](https://user-images.githubusercontent.com/97629162/210151308-a9c7dfa2-45a5-4f0e-b6ef-6e38b9065bfd.png)
+![Lance's Banner](https://user-images.githubusercontent.com/97629162/221370299-06449274-3db9-4445-810b-99cf5888c452.gif)
 
 ## About me 👋
 I am a software engineer at Fidelity Investments who loves learning and applying the latest full-stack technologies. With a background in mechanical engineering and as the former president of the Society of Asian Scientists and Engineers, I thrive in problem-solving situations and enjoy the challenge of breaking down problems into smaller tasks to achieve larger goals.
@@ -21,6 +21,7 @@ Currently, I am refining my full-stack development skills in Fidelity's Leap Pro
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### Back-End
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -68,6 +69,7 @@ Currently, I am refining my full-stack development skills in Fidelity's Leap Pro
 
 #### Currently learning
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
