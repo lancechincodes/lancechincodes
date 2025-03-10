@@ -1,11 +1,9 @@
-![Lance's Banner](https://user-images.githubusercontent.com/97629162/221370299-06449274-3db9-4445-810b-99cf5888c452.gif)
-
 ## About me 👋
 I am a software engineer at Fidelity Investments who loves learning and applying the latest full-stack technologies. With a background in mechanical engineering and as the former president of the Society of Asian Scientists and Engineers, I thrive in problem-solving situations and enjoy the challenge of breaking down problems into smaller tasks to achieve larger goals.
 
 With experience in instructing programming workshops and engineering courses in my free time, I've also developed an aptitude for leading team environments. I've found teaching not only to be a fulfilling hobby but an excellent contributor to my growth as a compassionate and perceptive leader.
 
-Currently, I am refining my full-stack development skills in Fidelity's Leap Program, building an exciting educational social media platform, and studying for an AWS Cloud Practioner certification!
+Currently, I am working as a back-end engineer in Fidelity's Workplace Investing Contributions team, re-visiting data structures and algorithms, and studying for an Azure Fundamentals Microsoft certification.
 
 [![Personal Website](https://img.shields.io/badge/-personal%20website-white?style=for-the-badge)](https://lancechincodes.github.io/portfolio/)
 
