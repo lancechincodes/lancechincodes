@@ -5,9 +5,6 @@ With experience in instructing programming workshops and engineering courses in 
 
 Currently, I am working as a back-end engineer in Fidelity's Workplace Investing Contributions team, re-visiting data structures and algorithms, and studying for an Azure Fundamentals Microsoft certification.
 
-## Links 📫
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lance-chin/)
-
 ## Skills 🛠
 * #### Fidelity Software Engineer
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
