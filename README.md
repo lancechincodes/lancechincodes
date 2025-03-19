@@ -31,6 +31,3 @@ Currently, I am working as a back-end engineer in Fidelity's Workplace Investing
 * #### University of Houston
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Matlab](https://img.shields.io/badge/-MATLAB-%23B653CF?style=for-the-badge)
-
-## GitHub stats 🟩
-![Lance's overall stats](https://github-readme-stats.vercel.app/api?username=lancechincodes&show_icons=true&theme=tokyonight)
